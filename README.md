@@ -1,6 +1,7 @@
-<img width="1518" alt="github-profile-image" src="https://github.com/user-attachments/assets/508de7b5-7b17-44ce-b179-59b455707534">
+<img width="1518" alt="github-banner" src="https://github.com/user-attachments/assets/2f621f36-4f2c-43f1-871a-c66e19015231">
 
 ## 👋 Hi, I’m Franziska (she/her). 
+
 
 I emphasize a balanced approach that considers both user and developer perspectives, aiming to create a supportive and enjoyable work environment for everyone. 
 - I enjoy both backend development and frontend design, particularly debugging code. 
